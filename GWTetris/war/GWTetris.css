@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#title {
+	font-size: 150%;
+	font-weight: bold;
+	color: black;
+	padding: 5px;
+	margin: 5px;
+}
+
+.gwt-Label {
+	font-size: 150%;
+	font-weight: bold;
+	color: black;
+	padding: 5px;
+	margin: 5px;
+}
